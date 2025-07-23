@@ -38,11 +38,11 @@ This project was a hands-on exploration of essential **Power BI features**, aime
 ## Dashboard Overview
 *This report is divided into two clear sections: one provides a high-level overview, while the other offers a more detailed, in-depth analysis.*
 ### Page 1: High-Level Market View
-![Data Jobs Dashboard Page 1](../Resources/images/Project1_Dashboard_Page1.gif)  
+![Data Jobs Dashboard Page 1](Project1_Dashboard_Page1.png)  
 This dashboard provides a clear overview of the data job market. It highlights key information such as the total number of job postings, median salaries, and the most in-demand job titles—offering a quick understanding of current market trends.
 
 ### Page 2: Job Title Drill Through
-![Data Jobs Dashboard Page 2](../Resources/images/Project1_Dashboard_Page2.gif)  
+![Data Jobs Dashboard Page 2](Project1_Dashboard_Page2.png)  
 This is the detailed view of the report. From the main dashboard, you can drill through to this page to explore insights for a specific job title—including salary ranges, remote work trends, top hiring platforms, and a global map of job locations.
 
 ## Conclusion
