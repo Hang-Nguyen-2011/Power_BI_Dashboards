@@ -34,7 +34,6 @@ This project was a hands-on exploration of essential **Power BI features**, aime
   - **Drill-through** for moving from summary views to detailed insights
 
 
-
 ## Dashboard Overview
 *This report is divided into two clear sections: one provides a high-level overview, while the other offers a more detailed, in-depth analysis.*
 ### Page 1: High-Level Market View
